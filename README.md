@@ -4,9 +4,11 @@
 <h3 align="center">A highly resourceful Android developer. Proficient in Kotlin, Java and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=momintahir&label=Profile%20views&color=0e75b6&style=flat" alt="momintahir" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=momintahir&label=Profile%20views&color=0e75b6&style=flat" alt="momintahir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momintahir" alt="momintahir" /></a> </p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=momintahir&" alt="momintahir" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momintahir" alt="momintahir" /></a> </p>
 
 - 🔭 I’m currently working on **Confidential**
 
@@ -34,5 +36,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momintahir&show_icons=true&locale=en&layout=compact" alt="momintahir" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=momintahir&show_icons=true&locale=en" alt="momintahir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=momintahir&" alt="momintahir" /></p>
